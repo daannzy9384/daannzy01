@@ -1,57 +1,68 @@
-# Introduction  
-Hey! My name is **Daniel**, an independent developer passionate about technology, mobile apps, and everything related to logic, creativity, and challenges.
+# Introduction
 
-I currently work on small personal projects focused on Android apps, experimenting, modifying, and publishing tools for the community.
+Hello! You can call me **Daniel**.
 
----
+I am an independent developer passionate about technology, Android apps, and learning how software works behind the scenes.
 
-## Role  
-**Solo developer** and **manager of my own small projects.**
-
-My focus is mainly on Android apps, translating and customizing applications, and improving them based on community feedback.
-
-I enjoy experimenting with new ideas, testing tools, and continuously learning more about development.
+I enjoy experimenting with apps, modifying them, translating projects, and creating small tools for the community.
 
 ---
 
-## Skills  
-Here are some technologies and tools I currently work with:
+## Position
 
-- [`Python`](https://www.python.org/) *(beginner level)*  
-- [`XML`](https://developer.android.com/develop/ui/views/layout/declaring-layout) for Android UI layouts  
-- [`HTML`](https://developer.mozilla.org/en-US/docs/Web/HTML) *(basic / learning)*  
-- [`CSS`](https://developer.mozilla.org/en-US/docs/Web/CSS) *(basic / learning)*  
-- [`Git`](https://git-scm.com/) & [`GitHub`](https://github.com/) *(basic workflow — repositories, commits, versioning)*  
+I am currently focused on learning programming and improving my development skills.
 
-### Currently studying
-- **Frontend development** using [`HTML`](https://developer.mozilla.org/en-US/docs/Web/HTML) and [`CSS`](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-- **Backend development**
-
-**Areas I'm interested in:**
-
-- Android development  
-- App translation and customization  
-- APK creation and modding  
-- Logic and strategy games (including chess ♟️)
-
-I'm naturally curious and always enjoy learning new things and understanding how software works behind the scenes.
+I work mainly on small independent projects related to Android applications, customization, and experimentation.
 
 ---
 
-## Projects  
+## Skills
+
+I am always trying to learn new things. Here are some technologies and tools that I have experience with so far:
+
+- Programming languages
+  - [Python](https://www.python.org/) *(beginner)*
+  
+- Frontend Development
+  - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) *(basic / studying)*
+  - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) *(basic / studying)*
+
+- Mobile Development
+  - [Android XML Layouts](https://developer.android.com/develop/ui/views/layout/declaring-layout)
+
+- Version Control
+  - [Git](https://git-scm.com/)
+  - [GitHub](https://github.com/)
+
+- Others
+  - APK tools for editing, translating, and building Android apps
+
+I am currently studying more about **frontend and backend development**.
+
+---
+
+## Projects
+
 Most of my projects currently include:
 
-- Simple Android apps  
-- Translated applications  
-- Customized APK builds  
+- Simple Android apps
+- Translated applications
+- Customized APK builds
 
-I also manage a small community where I share translated APKs, updates, and news with people interested in Android apps and modifications.
+I enjoy experimenting with mobile apps and sharing improvements with other users.
 
-My goal is to keep improving as an **indie developer**, expand my skills, and eventually publish more complete applications.
+You can check my repositories to see the projects I am working on.
 
 ---
 
-## Contact  
-Want to connect or check out my projects?
+## Connect with me
+
+You can connect with me from the following places:
 
 - Discord: **@daannzy**
+
+---
+
+## Support
+
+If you like my work, feel free to follow my projects on GitHub.
